@@ -455,6 +455,7 @@ nav {
   border: none;
   background-color: transparent;
   box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+  outline: red;
 }
 
 .contact-form textarea {
@@ -467,6 +468,7 @@ nav {
   background-color: transparent;
   box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
   height: 100px;
+  outline: red;
 }
 
 .contact-form button {
